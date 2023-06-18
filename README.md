@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Reddit-Clone is a Flutter application that replicates the popular social media platform Reddit. It utilizes Riverpod 2.0 for state management, Firebase for backend services and authentication/login.
+Reddit-Clone, a Flutter application that replicates reddit while following Material You. It utilizes Riverpod 2.0 for state management, Firebase for backend services and authentication/login.
 
 - [Riverpod 2.0](https://riverpod.dev/): Riverpod is a simple yet powerful state management library for Flutter, designed to be easy to use and understand.
 
@@ -10,48 +10,33 @@ Reddit-Clone is a Flutter application that replicates the popular social media p
 
 ## Features
 
-- Material You design theme: Reddit-Clone incorporates the Material You design theme, which allows for a customizable and visually appealing user interface. Learn more about [Material You](https://material.io/design/material-you).
-
-- Google/Guest Authentication: Users can authenticate via Google sign-in or as a guest.
-
-- Create/Join Community (Subreddits): Users can create and join communities based on their interests, enabling them to connect with like-minded individuals.
-
-- Community Profile: Each community has its own profile page, displaying information such as the community description and banner.
-
-- Edit Description and Banner of Community: Community moderators can edit the description and banner image of their communities, allowing for customization and personalization.
-
-- Make New Posts: Users can create new posts within the communities they are a part of, initiating discussions and sharing content.
-
-- Display Posts from Joined Communities: The app displays posts only from the communities the user is a member of, ensuring a personalized and relevant feed.
-
-- Upvote and Downvote: Users can express their opinion on posts by upvoting or downvoting them, contributing to the post's popularity.
-
-- Comments: Users can engage in discussions by leaving comments on posts, fostering conversations and interactions within the community.
-
-- Awarding the Post: Reddit-Clone allows users to award posts, acknowledging and appreciating quality content.
-
-- Karma System: Users earn karma points based on their activity and contributions, reflecting their reputation within the community.
-
-- Adding Moderators for Communities: Community owners can add moderators to assist in managing and maintaining the community.
-
-- Delete Posts: Community moderators and post creators can delete posts, ensuring content moderation and community guidelines adherence.
-
-- User Profile: Each user has a profile page showcasing their activity, posts, and karma points.
-
-- Edit User Profile: Users can edit their profile information, including their profile picture and bio.
-
-- Browsing All Communities: Users can explore and discover various communities based on their interests, expanding their network and interactions.
+- Material You design theme: Customize and visually appealing user interface. [Learn more](https://material.io/design/material-you).
+- Google/Guest Authentication: Authenticate via Google sign-in or as a guest.
+- Create/Join Community (Subreddits): Create and join communities based on interests.
+- Community Profile: Profile page for each community, including description and banner.
+- Edit Description and Banner: Edit community description and banner image.
+- Make New Posts: Create posts within joined communities.
+- Display Posts from Joined Communities: Personalized feed showing posts from joined communities.
+- Upvote and Downvote: Express opinions on posts through voting.
+- Comments: Engage in discussions through comments.
+- Awarding the Post: Acknowledge quality content by awarding posts.
+- Karma System: Earn karma points based on activity and contributions.
+- Adding Moderators: Assign moderators for community management.
+- Delete Posts: Remove posts for content moderation.
+- User Profile: Show user activity, posts, and karma points.
+- Edit User Profile: Customize user profile information.
+- Browsing All Communities: Explore and discover various communities.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
-![Screenshot 4](screenshots/screenshot4.png)
-![Screenshot 5](screenshots/screenshot5.png)
-![Screenshot 6](screenshots/screenshot6.png)
-![Screenshot 7](screenshots/screenshot7.png)
-![Screenshot 8](screenshots/screenshot8.png)
+<img src="screenshots/screenshot1.png" width="170" alt="Screenshot 1">
+<img src="screenshots/screenshot2.png" width="170" alt="Screenshot 2">
+<img src="screenshots/screenshot3.png" width="170" alt="Screenshot 3">
+<img src="screenshots/screenshot4.png" width="170" alt="Screenshot 4">
+<img src="screenshots/screenshot5.png" width="170" alt="Screenshot 5">
+<img src="screenshots/screenshot6.png" width="170" alt="Screenshot 6">
+<img src="screenshots/screenshot7.png" width="170" alt="Screenshot 7">
+<img src="screenshots/screenshot8.png" width="170" alt="Screenshot 8">
 
 ## Installation
 
