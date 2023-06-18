@@ -49,6 +49,7 @@ flutter pub get
 open -a simulator
 "# Reddit-clone" 
 
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
