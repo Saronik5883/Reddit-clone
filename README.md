@@ -10,7 +10,7 @@ Note: This is NOT a reddit client.
 
 ## Features
 
-- Material You design theme: Customizable and visually appealing user interface. [Learn more](https://material.io/design/material-you).
+- Material You design theme: Customizable and visually appealing user interface. [Learn more](https://m3.material.io/).
 - Google/Guest Authentication: Authenticate via Google sign-in or as a guest.
 - Create/Join Community (Subreddits): Create and join communities based on interests.
 - Community Profile: Profile page for each community, including description and banner.
