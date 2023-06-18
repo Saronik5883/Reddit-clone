@@ -6,6 +6,8 @@ Reddit-Clone, a Flutter application that replicates reddit while following Mater
 
 - [Firebase](https://firebase.google.com/): Firebase provides a comprehensive suite of backend services, including authentication and a real-time database, making it a perfect fit for building modern mobile and web applications.
 
+Note: This is NOT a reddit client.
+
 ## Features
 
 - Material You design theme: Customizable and visually appealing user interface. [Learn more](https://material.io/design/material-you).
